@@ -1,0 +1,5 @@
+Ignore these data sets, which are too large to be included in the repository.
+data/processed/*
+data/raw/*
+data/
+*.csv                          
